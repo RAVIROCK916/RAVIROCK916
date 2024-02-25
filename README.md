@@ -6,7 +6,7 @@
 
 Experienced software developer with a strong background in full-stack web development and a passion for creating efficient and scalable solutions. Proficient in various programming languages and frameworks, with expertise in JavaScript, React, and Node.js.
 
-<a href="https://app.daily.dev/ravitejapedapudi"><img src="https://api.daily.dev/devcards/4a2fe972a3844f44a0b1ce4d694c8621.png?r=q52" width="200" alt="Ravi Teja Pedapudi's Dev Card"/></a>
+<a href="https://app.daily.dev/ravitejapedapudi"><img src="https://api.daily.dev/devcards/v2/Awk8khDPgNblhshmgo3Jg.png?r=ls3&type=wide" width="652" alt="Ravi Teja Pedapudi's Dev Card"/></a>
 
 
 ## Experience
